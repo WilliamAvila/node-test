@@ -1,0 +1,3 @@
+steps:
+  - name: Example Test
+    command: echo "Hello!"
