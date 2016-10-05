@@ -1,5 +1,2 @@
 - command: '/.buildkite/build.sh'
   name: ':hammer: Build and Tests'
-  agents:
-    node: 'true'
-    nvm: 'true'
